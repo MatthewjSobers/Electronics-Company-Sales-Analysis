@@ -1,4 +1,4 @@
-Electronics Store Sales Data Analysis
+### Electronics Store Sales Data Analysis <br>
 This project explores sales data from an electronics store, aiming to uncover key factors influencing the company's sales. The workflow includes data cleaning, analysis, SQL queries, and visualization in Power BI to present findings.
 
 In the first part of the analysis we will explore the data in general, such as ranking customers, produts and ratings by spending totals, distributions of the different data features, different relationshis between the features etc. Following this will be in depth analysis answering these following questions:
