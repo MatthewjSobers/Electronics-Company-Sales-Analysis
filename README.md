@@ -1,8 +1,12 @@
 ### Electronics Store Sales Data Analysis <br>
-This project explores sales data from an electronics store, aiming to uncover key factors influencing the company's sales. The workflow includes data cleaning, analysis, SQL queries, and visualization in Power BI to present findings.
+This project explores sales data from an electronics store, aiming to uncover key factors influencing the company's sales. The workflow includes *data cleaning, analysis, SQL queries, and visualization in Power BI* to present findings.
+
+# Technologies Used
+Oracle SQL, Power BI
 
 In the first part of the analysis we will explore the data in general, such as ranking customers, produts and ratings by spending totals, distributions of the different data features, different relationshis between the features etc. Following this will be in depth analysis answering these following questions:
 
+*
 1. Which customer spent the most for each product type.
 2. What are the top selling products.
 3. Does gender influence spending habits in terms of amount spent.
@@ -14,7 +18,7 @@ In the first part of the analysis we will explore the data in general, such as r
 9. What were the most used payement methods and how much was spent.
 10. What is average rating for customers who purchased add-ons and those who didn't and overall does the presence of add_ons purchased effect the sales.
 11. Are there any peaks in sales depending on the season of the purchase date
-
+*
 Project Workflow
 1. Data Import and Cleaning
 The dataset was imported into Oracle SQL for preprocessing. The data contains various fields like CUSTOMER_ID, AGE, PRODUCT_ID, TOTAL_PRICE, ORDER_STATUS, PAYMENT_METHOD, and more.
