@@ -6,6 +6,8 @@ Oracle SQL, Power BI
 
 ## Introduction
 
+### Main business qustion: Which factors most significantly impact sales outcomes and how do various customer product, and order characteristics influence sales trends in the electronics store.
+
 In the first part of the analysis we will explore the data in general, such as ranking customers, produts and ratings by spending totals, distributions of the different data features, different relationshis between the features etc. Following this will be in depth analysis answering these following questions:
 
 1. Are there any peaks in sales depending on the season of the purchase date
