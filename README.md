@@ -59,15 +59,14 @@ The analysis revealed several factors that influence the company's sales:
 9. Credit cards were the payment method used the most (5868 times) and acounted for 18 913 772$ in sales, followed by bank transfer, paypal, cash, and lastly, debit card, which was used the least (2471 times) and sold 6 736 217$
 10. The average rating was approximately the same for both (precence of add ons or not), however, orders that contained add ons sold significantly more (48 184 250$) than if not (15 417 743$), meaning that the presence of add ons greatly affects the total sales.
 
-Product types and loyalty membership are strong predictors of high sales.
-Age groups between 25-40 are the most frequent purchasers.
-Shipping type and payment method also impact overall sales, with express shipping and digital payment methods contributing significantly.
-Tools Used
-SQL (Oracle SQL Developer): Data cleaning, preprocessing, and analysis.
-Power BI: Data visualization and dashboard creation.
-How to Use This Repository
+
+### How to Use This Repository
+
 Clone the repository to your local machine.
+
 Open the SQL files to explore the queries used for analysis.
-Review the Power BI dashboard files to explore visualizations and insights.
+
+Use the Power BI interactive dashboard file to explore visualizations and insights.
+
 Feel free to fork this repository or open an issue if you have any questions or suggestions.
 
