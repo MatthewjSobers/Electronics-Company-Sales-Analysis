@@ -4,6 +4,8 @@ This project explores sales data from an electronics store, aiming to uncover ke
 ### Technologies Used
 Oracle SQL, Power BI
 
+## Introduction
+
 In the first part of the analysis we will explore the data in general, such as ranking customers, produts and ratings by spending totals, distributions of the different data features, different relationshis between the features etc. Following this will be in depth analysis answering these following questions:
 
 1. Are there any peaks in sales depending on the season of the purchase date
@@ -16,6 +18,8 @@ In the first part of the analysis we will explore the data in general, such as r
 8. How did sales vary in terms of product type.
 9. What were the most used payement methods and how much was spent.
 10. What is average rating for customers who purchased add-ons and those who didn't and overall does the presence of add_ons purchased effect the sales.
+
+Following this will be visualisation of the data in Power BI.
 
 ### Project Workflow
 #### 1. Data Import and Cleaning
